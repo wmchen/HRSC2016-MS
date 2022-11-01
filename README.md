@@ -16,7 +16,7 @@ If you use our dataset, please cite our paper bellow.
 
 ```BibTeX
 @Article{Chen2022MSSDet,
-    AUTHOR = {Chen , Weiming and Han, Bing and Yang, Zheng and Gao, Xinbo},
+    AUTHOR = {Chen, Weiming and Han, Bing and Yang, Zheng and Gao, Xinbo},
     TITLE = {MSSDet: Multi-Scale Ship-Detection Framework in Optical Remote-Sensing Images and New Benchmark},
     JOURNAL = {Remote Sensing},
     VOLUME = {14},
