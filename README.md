@@ -12,7 +12,7 @@ Download the dataset through [Baidu](https://pan.baidu.com/s/1LJX7VmQGnA8Oh1hVXB
 
 ## Citation
 
-If you use our dataset, please cite our paper bellow.
+If you use our dataset, please cite our paper below.
 
 ```BibTeX
 @Article{Chen2022MSSDet,
