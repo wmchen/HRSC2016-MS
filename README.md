@@ -6,7 +6,7 @@ This is a multi-scale updating version of HRSC2016 dataset.
 
 ## Download 
 
-Download the dataset through [Baidu](https://pan.baidu.com/s/1LJX7VmQGnA8Oh1hVXBszyA) (code: fxm9), [GoogleDrive](https://drive.google.com/file/d/1UslulCCx8GoTflm1gpfIGZeXIsCAdMG5/view?usp=sharing).
+Download the dataset through [Baidu](https://pan.baidu.com/s/15UWodiWOSS6pFpNQK9oBIA) (code: b1f4), [GoogleDrive](https://drive.google.com/file/d/1UslulCCx8GoTflm1gpfIGZeXIsCAdMG5/view?usp=sharing).
 
 
 
